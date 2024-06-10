@@ -18,7 +18,7 @@ You are a Security Operations Analyst working at a company that implemented Micr
 
 In this task, you will explore using notebooks in Microsoft Sentinel.
 
-1. Log in to WIN1 virtual machine as Admin with the password: **Pa55w.rd**.  
+1. Log in to your machine as Admin
 
 1. In the Edge browser, navigate to the Azure portal at https://portal.azure.com.
 
